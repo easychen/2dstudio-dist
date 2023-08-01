@@ -1,6 +1,10 @@
 # 2dstudio-dist
 
-使用 API2D Key 的 Stable Studio，独立部署版
+使用 API2D Key 的 Stable Studio，
+
+🌌 [点这里在线试用](https://s.level06.com/)
+
+本仓库为独立部署版
 
 ![](images/20230801145646.png)
 
